@@ -12,19 +12,21 @@
 
 ## Build Setup
 
+First, make sure [yarn](https://yarnpkg.com/lang/en/) is installed.
+
 ``` bash
 # install dependencies
-$ npm run install
+$ yarn
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ yarn dev
 
 # build for production and launch server
-$ npm run build
-$ npm run start
+$ yarn build
+$ yarn start
 
 # generate static project
-$ npm run generate
+$ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
